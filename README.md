@@ -125,11 +125,11 @@ THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 
 ## 12. Repository Structure
 /<br/>
-├── Source/                 # Raw data files<br/>
-├── analysis_outputs/       # Generated visualizations and analysis<br/>
-├── SDOH_Transform.py       # Data transformation script<br/>
-├── EDA_PowerAnalysis.py   # Analysis scripts<br/>
-├── README.md              # Project documentation<br/>
-└── requirements.txt       # Python dependencies
+├── Source/                 (Raw data files)<br/>
+├── analysis_outputs/      (Generated visualizations and analysis)<br/>
+├── SDOH_Transform.py       (Data transformation script)<br/>
+├── EDA_PowerAnalysis.py   (Analysis scripts)<br/>
+├── README.md              (Project documentation)<br/>
+└── requirements.txt       (Python dependencies)
 
 
