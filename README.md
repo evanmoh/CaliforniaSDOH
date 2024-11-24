@@ -34,10 +34,10 @@ Health Outcomes: % fair/poor health, physically inactive adults, food environmen
 ![image](https://github.com/user-attachments/assets/3f0f6674-2011-464b-8f2c-3cba8a24b5d2)
 
 ## 5. Source Files
-Raw Excel Files: https://github.com/evanmoh/CaliforniaSDOH/tree/main/Source </b>
-SDOH Data from AHRQ (Zip-code level, 2023): https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html</b>
-AQI Data from EPA: https://aqs.epa.gov/aqsweb/airdata/download_files.html</b>
-County Health Ranking (CHR) Data: https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation</b>
+Raw Excel Files: https://github.com/evanmoh/CaliforniaSDOH/tree/main/Source<br/>
+SDOH Data from AHRQ (Zip-code level, 2023): https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html<br/>
+AQI Data from EPA: https://aqs.epa.gov/aqsweb/airdata/download_files.html<br/>
+County Health Ranking (CHR) Data: https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation<br/>
 USDA Food Access Data: https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
 
 ## 6. Data Transformation File
