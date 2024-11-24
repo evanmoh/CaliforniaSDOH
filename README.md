@@ -26,12 +26,13 @@ Health Outcomes: % fair/poor health, physically inactive adults, food environmen
 
 ## 3. Power Analysis
 ![image](https://github.com/user-attachments/assets/2fd7b4c0-b2ad-48ea-9a84-13af8e5c251a)
-
+https://github.com/evanmoh/CaliforniaSDOH/blob/main/EDA_PowerAnalysis.py
 
 ## 4. Exploratory Analysis
 ![image](https://github.com/user-attachments/assets/e1555875-b505-483e-a0d4-6fc07ebb1f1e)
 ![image](https://github.com/user-attachments/assets/79be11d9-b95d-4ed3-a9db-cacfbb66d818)
 ![image](https://github.com/user-attachments/assets/3f0f6674-2011-464b-8f2c-3cba8a24b5d2)
+https://github.com/evanmoh/CaliforniaSDOH/blob/main/EDA_PowerAnalysis.py
 
 ## 5. Source Files
 Raw Excel Files: https://github.com/evanmoh/CaliforniaSDOH/tree/main/Source<br/>
@@ -43,10 +44,7 @@ USDA Food Access Data: https://www.ers.usda.gov/data-products/food-access-resear
 ## 6. Data Transformation File
 https://github.com/evanmoh/CaliforniaSDOH/blob/main/SDOH_Transform.py
 
-## 7. Power Analysis and Exploratory Analysis
-https://github.com/evanmoh/CaliforniaSDOH/blob/main/EDA_PowerAnalysis.py
-
-## 8. Data Coverage
+## 7. Data Coverage
 ### Dataset Coverage and Completeness:
 Our dataset comprehensively covers California's healthcare landscape, with excellent coverage across multiple data sources. The baseline SDOH dataset includes 2,585 unique ZIP codes across California. Here's a detailed breakdown of our coverage:
 
