@@ -34,10 +34,10 @@ Health Outcomes: % fair/poor health, physically inactive adults, food environmen
 ![image](https://github.com/user-attachments/assets/3f0f6674-2011-464b-8f2c-3cba8a24b5d2)
 
 ## 5. Source Files
-Raw Excel Files: https://github.com/evanmoh/CaliforniaSDOH/tree/main/Source </n>
-SDOH Data from AHRQ (Zip-code level, 2023): https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html</n>
-AQI Data from EPA: https://aqs.epa.gov/aqsweb/airdata/download_files.html</n>
-County Health Ranking (CHR) Data: https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation</n>
+Raw Excel Files: https://github.com/evanmoh/CaliforniaSDOH/tree/main/Source </b>
+SDOH Data from AHRQ (Zip-code level, 2023): https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html</b>
+AQI Data from EPA: https://aqs.epa.gov/aqsweb/airdata/download_files.html</b>
+County Health Ranking (CHR) Data: https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation</b>
 USDA Food Access Data: https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
 
 ## 6. Data Transformation File
@@ -64,7 +64,7 @@ County Health Rankings: Complete coverage with all 2,585 records (100.0%) includ
 94.0% of records (2,431) have complete data across all sources
 The primary gap appears in AQI coverage, which affects 6% of records
 The matching and integration process maintained data integrity, with minimal loss of information
-This high level of coverage suggests that our dataset provides a robust foundation for analyzing health determinants across California. The complete county coverage and high ZIP code representation make it particularly valuable for both broad county-level analysis and more granular ZIP code-level investigations. The small gap in AQI coverage should be considered when conducting environmental health analyses, but doesn't significantly impact the dataset's overall utility.
+This high level of coverage suggests that our dataset provides a robust foundation for analyzing health determinants across California. The complete county coverage and high ZIP code representation make it particularly valuable for both broad county-level analysis and more granular ZIP code-level investigations. The small gap in AQI coverage should be considered when conducting environmental health analyses, but it doesn't significantly impact the dataset's overall utility.
 
 ## 8. California SDOH Data Limitations
 The SDOH dataset, while comprehensive, has several important limitations to consider:
@@ -75,7 +75,7 @@ While we aimed to cover all California counties and ZIP codes, some geographic a
 ### Data Quality and Integration:
 The merging of multiple data sources (SDOH, HPSA, AQI, and County Health Rankings) introduces challenges due to different collection methodologies and reporting periods. Some ZIP codes have missing data for certain metrics, particularly in health outcomes and air quality measurements. The aggregated nature of the data at both ZIP code and county levels masks individual-level variations and local disparities.
 ### Demographic Representation:
-The demographic categories in the dataset are broadly defined, potentially oversimplifying the diversity within communities. Income and wealth distribution data may not fully capture economic disparities. Language barriers during data collection might have affected the accuracy of reported health outcomes in non-English speaking communities.
+The demographic categories in the dataset are broadly defined, potentially oversimplifying the diversity within communities. Income and wealth distribution data may not fully capture economic disparities. Language barriers during data collection might have affected the accuracy of reported health outcomes in non-English-speaking communities.
 ### Healthcare Access Metrics:
 The HPSA scores, being county-level measurements, don't capture local variations in healthcare access within counties. The dataset lacks detailed information about specialty care availability and doesn't fully account for transportation barriers that might affect healthcare access. Quality metrics for healthcare services are limited.
 ### Environmental Factors:
