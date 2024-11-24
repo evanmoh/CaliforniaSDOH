@@ -186,5 +186,5 @@ Preventable Hospitalization Rate - Rate of preventable hospital stays per 100,00
 % Vaccinated - Percentage of population that is fully vaccinated<br/>
 
 ## 14. Public Repository
-Kaggle: https://www.kaggle.com/datasets/evanmoh/california-social-determinants-of-health-sdoh
+Kaggle: https://www.kaggle.com/datasets/evanmoh/california-social-determinants-of-health-sdoh <br/>
 Github Repository: https://github.com/evanmoh/CaliforniaSDOH
