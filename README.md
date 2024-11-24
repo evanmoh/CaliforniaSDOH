@@ -10,6 +10,7 @@ Environmental impact assessments on public health.
 Resource allocation and targeted policy-making at ZIP code and county levels.
 
 ## 2. Motivation and Pitch Video:
+https://drive.google.com/file/d/19aNrHDjvMy26yIzusUHiMDOrYxKeFhu4/view?usp=drive_link
 
 ## 3. Description of Data
 ### Data Sources:
