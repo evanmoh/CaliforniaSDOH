@@ -1,4 +1,3 @@
-
 # California SDOH Dataset: README
 ## 1. Executive Summary
 The California SDOH dataset was developed to address key challenges with existing Social Determinants of Health data, including data silos, lack of interoperability, and limited California-specific insights. This comprehensive dataset harmonizes ZIP code, county, and state-level data while integrating multiple robust sources, such as SDOH, HPSA, AQI, and County Health Rankings, to provide granular, actionable insights for policymakers, healthcare professionals, and researchers.
@@ -185,3 +184,7 @@ Food Environment Index - Index of factors that contribute to healthy food access
 % Excessive Drinking - Percentage reporting excessive alcohol consumption<br/>
 Preventable Hospitalization Rate - Rate of preventable hospital stays per 100,000 population<br/>
 % Vaccinated - Percentage of population that is fully vaccinated<br/>
+
+## 14. Public Repository
+Kaggle: https://www.kaggle.com/datasets/evanmoh/california-social-determinants-of-health-sdoh
+Github Repository: https://github.com/evanmoh/CaliforniaSDOH
