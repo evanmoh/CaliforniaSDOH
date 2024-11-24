@@ -124,12 +124,12 @@ The above copyright notice and this permission notice shall be included in all c
 THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE DATASET OR THE USE OR OTHER DEALINGS IN THE DATASET.
 
 ## 12. Repository Structure
-/
-├── Source/                 # Raw data files
-├── analysis_outputs/       # Generated visualizations and analysis
-├── SDOH_Transform.py       # Data transformation script
-├── EDA_PowerAnalysis.py   # Analysis scripts
-├── README.md              # Project documentation
+/<br/>
+├── Source/                 # Raw data files<br/>
+├── analysis_outputs/       # Generated visualizations and analysis<br/>
+├── SDOH_Transform.py       # Data transformation script<br/>
+├── EDA_PowerAnalysis.py   # Analysis scripts<br/>
+├── README.md              # Project documentation<br/>
 └── requirements.txt       # Python dependencies
 
 
