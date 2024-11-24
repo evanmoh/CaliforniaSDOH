@@ -25,26 +25,8 @@ Health Outcomes: % fair/poor health, physically inactive adults, food environmen
 
 
 ## 3. Power Analysis
-Power Analysis:
---------------------------------------------------
+![image](https://github.com/user-attachments/assets/2fd7b4c0-b2ad-48ea-9a84-13af8e5c251a)
 
-Relationship: % Fair or Poor Health vs ACS_PCT_DISABLE_ZC
-Effect size (correlation): 0.197
-Sample size: 2585
-Achieved power: 1.000
-Required sample size for 80% power: 204
-
-Relationship: % Fair or Poor Health vs ACS_MEDIAN_AGE_ZC
-Effect size (correlation): 0.191
-Sample size: 2585
-Achieved power: 1.000
-Required sample size for 80% power: 217
-
-Relationship: % Fair or Poor Health vs ACS_PCT_HISPANIC_ZC
-Effect size (correlation): 0.391
-Sample size: 2585
-Achieved power: 1.000
-Required sample size for 80% power: 53
 
 ## 4. Exploratory Analysis
 Demographic Analysis:
