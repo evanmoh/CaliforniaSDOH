@@ -133,4 +133,55 @@ THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 ├── README.md              (Project documentation)<br/>
 └── requirements.txt       (Python dependencies)
 
-
+## 13. Data Dictionary
+**Geographic Identifiers:**<br/>
+ZIPCODE - 5-digit ZIP code identifier for geographical area<br/>
+ZCTA - ZIP Code Tabulation Area code used by Census Bureau<br/>
+county - California county name without 'County' suffix<br/>
+<br/>
+**Demographic Indicators:**<br/>
+ACS_TOT_POP_WT_ZC - Total weighted population in ZIP code<br/>
+ACS_TOT_POP_US_ABOVE1_ZC - Population above age 1 in ZIP code<br/>
+ACS_TOT_POP_ABOVE5_ZC - Population above age 5 in ZIP code<br/>
+ACS_TOT_POP_ABOVE15_ZC - Population above age 15 in ZIP code<br/>
+ACS_TOT_POP_ABOVE16_ZC - Population above age 16 (working age) in ZIP code<br/>
+ACS_TOT_POP_16_19_ZC - Population between ages 16-19 in ZIP code<br/>
+ACS_TOT_POP_ABOVE25_ZC - Adult population (above age 25) in ZIP code<br/>
+<br/>
+**Health and Disability Metrics:**<br/>
+ACS_PCT_CHILD_DISAB_ZC - Percentage of children with disabilities<br/>
+ACS_PCT_DISABLE_ZC - Overall percentage of population with disabilities<br/>
+ACS_PCT_NONVET_DISABLE_18_64_ZC - Percentage of non-veteran adults (18-64) with disabilities<br/>
+<br/>
+**Demographic Composition:**<br/>
+ACS_PCT_FOREIGN_BORN_ZC - Percentage of foreign-born population<br/>
+ACS_PCT_HISPANIC_ZC - Percentage of Hispanic population<br/>
+ACS_PCT_FEMALE_ZC - Percentage of female population<br/>
+ACS_PCT_MALE_ZC - Percentage of male population<br/>
+<br/>
+**Age Demographics:**<br/>
+ACS_MEDIAN_AGE_ZC - Median age of total population<br/>
+ACS_MEDIAN_AGE_FEMALE_ZC - Median age of female population<br/>
+ACS_MEDIAN_AGE_MALE_ZC - Median age of male population<br/>
+<br/>
+**Language Proficiency:**<br/>
+ACS_PCT_ENGL_NOT_ALL_ZC - Percentage with limited English proficiency<br/>
+ACS_PCT_ENGL_NOT_WELL_ZC - Percentage who do not speak English well<br/>
+<br/>
+**Healthcare Access:**<br/>
+Median HPSA Score - Median Health Professional Shortage Area score (higher scores indicate greater shortages)<br/>
+<br/>
+**Environmental Metrics:**<br/>
+Median AQI - Median Air Quality Index value (higher values indicate worse air quality)<br/>
+<br/>
+**Health Outcomes (County Health Rankings):**<br/>
+% Fair or Poor Health - Percentage reporting fair or poor health<br/>
+Average Number of Physically Unhealthy Days - Average days per month with poor physical health<br/>
+Average Number of Mentally Unhealthy Days - Average days per month with poor mental health<br/>
+% Adults with Obesity - Percentage of adult population with obesity<br/>
+Food Environment Index - Index of factors that contribute to healthy food access (0-10 scale)<br/>
+% Physically Inactive - Percentage of adults reporting no leisure-time physical activity<br/>
+% With Access to Exercise Opportunities - Percentage with access to physical activity locations<br/>
+% Excessive Drinking - Percentage reporting excessive alcohol consumption<br/>
+Preventable Hospitalization Rate - Rate of preventable hospital stays per 100,000 population<br/>
+% Vaccinated - Percentage of population that is fully vaccinated<br/>
