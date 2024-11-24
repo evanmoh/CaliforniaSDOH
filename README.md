@@ -26,7 +26,7 @@ Environmental Metrics: Median AQI values (e.g., PM2.5 levels).
 Health Outcomes: % fair/poor health, physically inactive adults, food environment index.
 
 ## 4. Power Analysis
-![image](https://github.com/user-attachments/assets/2fd7b4c0-b2ad-48ea-9a84-13af8e5c251a)
+![image](https://github.com/user-attachments/assets/2fd7b4c0-b2ad-48ea-9a84-13af8e5c251a)<br/>
 https://github.com/evanmoh/CaliforniaSDOH/blob/main/EDA_PowerAnalysis.py
 
 Our power analysis demonstrates robust statistical validity:
